@@ -9,7 +9,7 @@ public class Calculadora {
 		num1=sc.nextDouble();
 		System.out.println("Introduce otro número");
 		num2=sc.nextDouble();
-		suma=Sumar(num1,num2);
+		
 
 		
 	}
